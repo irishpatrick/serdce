@@ -11,7 +11,7 @@
   PreviewEnd = 0
   Genre = "rock"
   MediaType = "cd"
-  MusicStream = "serdce.opus"
+  MusicStream = "/home/patrick/repos/serdce/serdce.opus"
 }
 [SyncTrack]
 {
